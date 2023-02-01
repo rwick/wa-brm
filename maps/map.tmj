@@ -879,6 +879,19 @@
          "tilecount":855,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":17,
+         "firstgid":5763,
+         "image":"..\/tilesets\/balloon.png",
+         "imageheight":480,
+         "imagewidth":544,
+         "margin":0,
+         "name":"balloon",
+         "spacing":0,
+         "tilecount":255,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
